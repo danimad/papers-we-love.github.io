@@ -5,10 +5,39 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2016-11-30T19:00:00-05:00</updated>
+  <updated>2016-12-31T19:00:00-05:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>January Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/january-meetups/"/>
+    <id>http://papers-we-love.github.io/2017/news/january-meetups/</id>
+    <published>2016-12-31T19:00:00-05:00</published>
+    <updated>2017-01-01T01:00:37-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for January across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 1/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/235992744/"&gt;: New Directions in Cryptography&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 1/10&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/236484022/"&gt;Josh Marlow on A Basic Agent&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 1/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/236233873/"&gt;Parsing with Derivatives&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brasília 1/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-bsb/events/229004456/"&gt;What do programmers know about software energy consumption?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 1/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/236147759/"&gt;ConvolutionBased Interpolation for Fast, High-Quality Rotation of Images&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fairfax 1/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/bpckxlywcbhc/"&gt;Monthly Meeting&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>December Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2016/news/december-meetups/"/>
@@ -246,56 +275,6 @@
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Félix López on Epidemic Broadcast Trees</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/felix-lopez-introduction-to-gossip-protocols/"/>
-    <id>http://papers-we-love.github.io/2016/video/felix-lopez-introduction-to-gossip-protocols/</id>
-    <published>2016-09-09T20:00:00-04:00</published>
-    <updated>2016-09-11T12:55:33-04:00</updated>
-    <author>
-      <name>Sean</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/lhGZNZLcfo0" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="madrid---april-6-2016"&gt;Madrid - April 6, 2016&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/229616859/"&gt;http://www.meetup.com/Papers-We-Love-Madrid/events/229616859/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="flix-lpez-on-epidemic-broadcast-trees"&gt;Félix López on Epidemic Broadcast Trees&lt;/h3&gt;
-
-&lt;p&gt;While I was working on the presentation for Plumtree I realized that the gossip introduction is itself quite long, so I'm going to split the talk in two. In this first one I will introduce Gossip protocols and I will go over these papers:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf"&gt;A. Demers, D. Greene, C. Hauser, W. Irish, J. Larson, S. Shenker, H. Sturgis, D. Swinehart, and D. Terry. “Epidemic Algorithms for Replicated Database Maintenance.” In Proc. Sixth Symp. on Principles of Distributed Computing, pp. 1–12, Aug. 1987.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://dl.acm.org/citation.cfm?id=1317382"&gt;Ken Birman. The Promise, and Limitations, of Gossip Protocols. ACM SIGOPS Oper. Syst. Rev., 41(5):8–13, October 2007&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.inf.u-szeged.hu/~jelasity/dr/doktori-mu.pdf"&gt;Gossip-based Protocols for Large-scale Distributed Systems. Márk Jelasity, 2013&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Although some parts of the presentation refer to these:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;J. Leitão, J. Pereira, and L. Rodrigues. Epidemic broadcast trees. In Huai, J. and Baldoni, R. and Yen, I., editor, IEEE International Symposium On Reliable Distributed Systems, pages 301–310. IEEE Computer Society, 2007&lt;/li&gt;
-  &lt;li&gt;Ali Saidi and Mojdeh Mohtashemi. Minimum-cost first-push-then-pull gossip algorithm. IEEE Wireless Communications and Networking Conference, WCNC, pages 2554–2559, 2012&lt;/li&gt;
-  &lt;li&gt;JELASITY, M., GUERRAOUI, R., KERMARREC, A.-M., AND VAN STEEN, M. 2004. The peer sampling service: Experimental evaluation of unstructured gossip-based implementations. In Middleware 2004, H.-A. Jacobsen, Ed. Lecture Notes in Computer Science, vol. 3231. Springer-Verlag, 79–98.&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://status.aws.amazon.com/s3-20080720.html"&gt;Amazon S3 Outage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://docs.datastax.com/en/cassandra/3.0/cassandra/architecture/archGossipAbout.html"&gt;Datastax - Internode Communications (Gossip)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.consul.io/docs/internals/gossip.html"&gt;Consul - Gossip Protocol&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;A Gossip-Style Failure Detection Service: Robbert van Renesse, Yaron Minsky, and Mark Hayden*; Dept. of Computer Science, Cornell University; 4118 Upson Hall, Ithaca, NY 14853&lt;/li&gt;
-  &lt;li&gt;Gupta, Indranil, Chandra, Tushar D., and Goldszmidt, German S. On scalable and efficient distributed failure detectors. In Proceedings of the Twentieth Annual ACM Symposium on Principles of Distributed Computing, PODC ’01, pp. 170–179,New York, NY, USA, 2001. ACM. ISBN[masked]-9. doi:[masked]/383962.384010. URL &lt;a href="http://doi.acm.org/10.1145/383962.384010"&gt;http://doi.acm.org/10.1145/383962.384010&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Montresor, A.: Intelligent Gossip. In: Studies on Computational Inteligence, Intelligent Distributed Computing, Systems and Applications, Springer, Heidelberg (2008)&lt;/li&gt;
-  &lt;li&gt;On disseminating information reliably without broadcasting. Proceedings of the International Conference on Distributed Computing Systems (1987), pp. 74–81&lt;/li&gt;
-  &lt;li&gt;Brenda Baker and Robert Shostak. Gossips and telephones. Discrete Mathematics, 2(3):191–193, June 1972. &lt;a href="http://www.inf.u-szeged.hu/~jelasity/ddm/gossip.pdf"&gt;http://www.inf.u-szeged.hu/~jelasity/ddm/gossip.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We will talk about the paper "Epidemic Broadcast Trees" by J. Leitão, J. Pereira, and L. Rodrigues.&lt;/p&gt;
-
-&lt;p&gt;This paper proposes an integrated broadcast scheme that combines both Gossip protocols and deterministic tree-based protocols. The paper proposes a new protocol "Plumtree", a derivative of which is now used by Riak for gossiping bucket properties.&lt;/p&gt;
 </content>
   </entry>
 </feed>
