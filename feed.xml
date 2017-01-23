@@ -5,16 +5,71 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2016-12-31T19:00:00-05:00</updated>
+  <updated>2017-01-22T19:00:00-05:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>Wil Yegelwel on The Rendering Equation</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/wil-yegelwel-rendering-equation/"/>
+    <id>http://papers-we-love.github.io/2017/video/wil-yegelwel-rendering-equation/</id>
+    <published>2017-01-22T19:00:00-05:00</published>
+    <updated>2017-01-22T19:00:04-05:00</updated>
+    <author>
+      <name>MTV</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/z7umrRqlSeE" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---november-29-2016"&gt;New York - November 29, 2016&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Wil Yegelwel on The Rendering Equation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/235441575/"&gt;https://www.meetup.com/papers-we-love/events/235441575/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Papers:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href="http://bit.ly/2jdLPbj"&gt;The Rendering Equation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://bit.ly/2kg2RmV"&gt;Illumination for Computer Generated Pictures&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://bit.ly/2khx0Xa"&gt;Continuous Shading of Curved Surfaces&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2kfZiwX"&gt;Wil Yegelwel on The Rendering Equation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2jQ7Y0Q"&gt;Wil Yegelwel on The Rendering Equation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Illumination in computer graphics deals with calculating the color of each pixel on the screen when trying to render a photorealistic scene. The problem is that generating increasingly realistic renderings requires a lot of processing and so a tradeoff must be made between compute time and image quality. We will first look at two foundational papers from the 70s that built “good enough” models that were fast to render. Finally, we look at &lt;a href="http://bit.ly/2jdLPbj"&gt;The Rendering Equation&lt;/a&gt; that provides a single model to encompass many effects of lighting assuming you are willing to pay the processing cost.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://wyegelwel.github.io"&gt;Wil Yegelwel&lt;/a&gt; (&lt;a href="https://twitter.com/WYegelwel"&gt;@WYegelwel&lt;/a&gt;) is an engineer at &lt;a href="https://www.twosigma.com/"&gt;Two Sigma&lt;/a&gt; working on the Compute team. At work he engineers &lt;a href="https://github.com/twosigma/Cook"&gt;Cook&lt;/a&gt;, a fair share scheduler, which tries to ensure that users all get fair access to compute resources. He recently got a kitten and would be thrilled if more people wanted to discuss adorable cats. During college he fell in love with computer graphics but more so the necessity to learn broadly to do computer graphics (and life?) well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fwil-yegelwel-on-the-rendering-equation%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" id="talk_frame_376620" mozallowfullscreen="true" src="//speakerdeck.com/player/53328a42b5254ee9bc535a3821f6a703" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>January Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/news/january-meetups/"/>
     <id>http://papers-we-love.github.io/2017/news/january-meetups/</id>
     <published>2016-12-31T19:00:00-05:00</published>
-    <updated>2017-01-22T13:00:40-05:00</updated>
+    <updated>2017-01-22T19:00:38-05:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -131,7 +186,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2016/video/elizabeth-ramirez-kalman-filter/"/>
     <id>http://papers-we-love.github.io/2016/video/elizabeth-ramirez-kalman-filter/</id>
     <published>2016-10-23T20:00:00-04:00</published>
-    <updated>2016-10-24T07:00:05-04:00</updated>
+    <updated>2017-01-22T19:00:04-05:00</updated>
     <author>
       <name>MTV</name>
     </author>
@@ -146,8 +201,8 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/233588742"&gt;https://www.meetup.com/papers-we-love/events/233588742&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://unc.live/2dAHitu"&gt;A New Approach to Linear Filtering and Prediction Problems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2dAKs0h"&gt;"Elizabeth Ramirez on A New Approach to Linear Filtering and Prediction Problems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2eI1P1q"&gt;"Elizabeth Ramirez on A New Approach to Linear Filtering and Prediction Problems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2dAKs0h"&gt;Elizabeth Ramirez on A New Approach to Linear Filtering and Prediction Problems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2eI1P1q"&gt;Elizabeth Ramirez on A New Approach to Linear Filtering and Prediction Problems&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;PWL References:&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kalman_filter"&gt;Kalman Filter&lt;/a&gt;&lt;/li&gt;
@@ -223,68 +278,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>David Nolen on Parsing With Derivatives</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/david-nolen-parsing-with-derivatives/"/>
-    <id>http://papers-we-love.github.io/2016/video/david-nolen-parsing-with-derivatives/</id>
-    <published>2016-09-12T20:00:00-04:00</published>
-    <updated>2016-09-13T13:00:09-04:00</updated>
-    <author>
-      <name>The Organization</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/FKiEsJiTMtI" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---august-24-2016"&gt;New York - August 24, 2016&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;David Nolen on Parsing With Derivatives&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/papers-we-love/events/233240967/"&gt;http://www.meetup.com/papers-we-love/events/233240967/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/2cRG1j0"&gt;Parsing with Derivatives: A Functional Pearl&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2cqiMLx"&gt;David Nolen on Parsing With Derivatives&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2cfLnc1"&gt;David Nolen on Parsing With Derivatives&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;PWL References:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href="https://youtu.be/ZzsK8Am6dKU"&gt;Parsing with Derivatives by Matt Might (video)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href="http://matt.might.net/articles/parsing-with-derivatives/"&gt;Yacc is dead: An update (post by Matt Might)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href="http://arxiv.org/abs/1604.04695"&gt;On the Complexity and Performance of Parsing with Derivatives (follow-up)&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We present a functional approach to parsing unrestricted context-free grammars based on &lt;a href="https://en.wikipedia.org/wiki/Brzozowski_derivative"&gt;Brzozowski's derivative of regular expressions&lt;/a&gt;. If we consider context-free grammars as recursive regular expressions, Brzozowski's equational theory extends without modification to context-free grammars (and it generalizes to parser combinators). The supporting actors in this story are three concepts familiar to functional programmers - laziness, memoization and fixed points; these allow Brzozowski's original equations to be transliterated into purely functional code in about 30 lines spread over three functions.&lt;/p&gt;
-
-&lt;p&gt;Yet, this almost impossibly brief implementation has a drawback: its performance is sour - in both theory and practice. The culprit? Each derivative can double the size of a grammar, and with it, the cost of the next derivative.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, much of the new structure inflicted by the derivative is either dead on arrival, or it dies after the very next derivative. To eliminate it, we once again exploit laziness and memoization to transliterate an equational theory that prunes such debris into working code. Thanks to this compaction, parsing times become reasonable in practice.&lt;/p&gt;
-
-&lt;p&gt;We equip the functional programmer with two equational theories that, when combined, make for an abbreviated understanding and implementation of a system for parsing context-free languages.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://swannodette.github.io/"&gt;David Nolen&lt;/a&gt; (&lt;a href="https://twitter.com/swannodette/"&gt;@swannodette&lt;/a&gt;) is a Software Engineer for &lt;a href="http://cognitect.com/"&gt;Cognitect&lt;/a&gt; and the lead developer of &lt;a href="https://github.com/clojure/clojurescript"&gt;ClojureScript&lt;/a&gt;. He likes making music, &lt;a href="http://swannodette.github.io/baduk/baduk/2016/01/08/hello-baduk.html"&gt;playing Go&lt;/a&gt;, and reading interesting papers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fdavid-nolen-on-parsing-with-derivatives%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" id="talk_frame_358865" mozallowfullscreen="true" src="//speakerdeck.com/player/e0403b0dcc6c41828151d5e449b7853c" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;, and, host, &lt;a href="https://careers.twitter.com/en/locations/new-york.html"&gt;Twitter NYC&lt;/a&gt;, for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
 </content>
   </entry>
 </feed>
