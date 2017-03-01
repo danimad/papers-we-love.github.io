@@ -5,10 +5,55 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2017-01-31T19:00:00-05:00</updated>
+  <updated>2017-02-28T19:00:00-05:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>March Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/march-meetups/"/>
+    <id>http://papers-we-love.github.io/2017/news/march-meetups/</id>
+    <published>2017-02-28T19:00:00-05:00</published>
+    <updated>2017-03-01T01:00:38-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for March across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 3/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/237948954/"&gt;Book Club: Grokking Algorithms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 3/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/237070014/"&gt;Classic Nintendo Games are (Computationally) Hard&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 3/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/237408130/"&gt;: Gorilla: A fast, scalable, inmemory time series database&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 3/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/236720978/"&gt;Discussion Group: As We May Think&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;cambridge  3/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/237933920/"&gt;Godel's Incompleteness Theorems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 3/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/237702021/"&gt;Matt Hardwick on Unsupervised Representation Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Durham 3/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Raleigh-Durham/events/237701408/"&gt;QuickCheck Testing for Fun and Profit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 3/15&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/jsfhrmywfbtb/"&gt;Book Club: Grokking Algorithms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Olivette 3/20&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/237149153/"&gt;A HighPerformance Implementation of Bayesian Clustering&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 3/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/237862512/"&gt;March: Pick Your Paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fairfax 3/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/bpckxlywfbdc/"&gt;Monthly Meeting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York  3/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/238056356/"&gt;Kiran Bhattaram on Failure Detectors&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 3/29&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/jsfhrmywfbmc/"&gt;Book Club: Grokking Algorithms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Santa Monica 3/29&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-LA/events/237567684/"&gt;Elwin Martin  Gravitational effects on and of vacuum decay&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>February Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/news/february-meetups/"/>
@@ -228,66 +273,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Elizabeth Ramirez on A New Approach to Linear Filtering and Prediction Problems</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/elizabeth-ramirez-kalman-filter/"/>
-    <id>http://papers-we-love.github.io/2016/video/elizabeth-ramirez-kalman-filter/</id>
-    <published>2016-10-23T20:00:00-04:00</published>
-    <updated>2017-01-22T19:00:04-05:00</updated>
-    <author>
-      <name>MTV</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/DEI2R_LGUi0" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---september-29-2016"&gt;New York - September 29, 2016&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Elizabeth Ramirez on A New Approach to Linear Filtering and Prediction Problems&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/233588742"&gt;https://www.meetup.com/papers-we-love/events/233588742&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://unc.live/2dAHitu"&gt;A New Approach to Linear Filtering and Prediction Problems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2dAKs0h"&gt;Elizabeth Ramirez on A New Approach to Linear Filtering and Prediction Problems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2eI1P1q"&gt;Elizabeth Ramirez on A New Approach to Linear Filtering and Prediction Problems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;PWL References:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kalman_filter"&gt;Kalman Filter&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href="http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/"&gt;How a Kalman filter works, in pictures (post by Panruo Wu)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href="https://youtu.be/k_MpfzMc9PU"&gt;Elizabeth Ramirez - Kalman Filters for non-rocket science - PyCon 2016 (video)&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href="https://en.wikipedia.org/wiki/Kalman_filter"&gt;Kalman Filter&lt;/a&gt; is a prediction-correction algorithm named after Rudolf E. Kálmán (1930-2016), by which we calculate recursively a dynamical system state at time &lt;em&gt;t_{k}&lt;/em&gt; using state at previous time &lt;em&gt;u_{k-1}&lt;/em&gt; and new information &lt;em&gt;b_{k}&lt;/em&gt; only. This technique is presented as a generalization of the least squares model for problems with varying mean and additive noise.&lt;/p&gt;
-
-&lt;p&gt;The &lt;em&gt;Kalman Filter&lt;/em&gt; was first applied in the 1960s to the problem of trajectory estimation for NASA's Apollo space program and incorporated into their space navigation computer. It is also used in the guidance and navigation systems of the NASA Space Shuttle and the attitude control and navigation systems of the International Space Station. In other words, it is mostly used for positioning and navigation systems, but it can be generalized to any time series under suitable conditions.&lt;/p&gt;
-
-&lt;p&gt;Rudolf Kálmán recently passed away, and I thought it was a good idea to honor his memory at Papers We Love by presenting his original paper published in 1960, "&lt;a href="https://www.cs.unc.edu/~welch/kalman/media/pdf/Kalman1960.pdf"&gt;A New Approach to Linear Filtering and Prediction Problems&lt;/a&gt;", aka &lt;em&gt;Kalman Filter&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Elizabeth Ramirez (&lt;a href="https://twitter.com/eramirem"&gt;@eramirem&lt;/a&gt;) is a Senior Software Engineer at &lt;a href="http://www.nytimes.com/"&gt;The New York Times&lt;/a&gt; and M.S. candidate in &lt;a href="http://apam.columbia.edu/"&gt;Applied Mathematics at Columbia University&lt;/a&gt;. She likes analytical and numerical methods for solving partial differential equations, and all things space.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Felizabeth-ramirez-on-a-new-approach-to-linear-filtering-and-prediction-problems%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" id="talk_frame_364879" mozallowfullscreen="true" src="//speakerdeck.com/player/6738f44057324eeb949db50da8fc9437" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
 </content>
   </entry>
 </feed>
