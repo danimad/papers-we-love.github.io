@@ -5,16 +5,67 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2017-02-28T19:00:00-05:00</updated>
+  <updated>2017-03-26T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>Erich Ess on Imaging Vector Fields Using Line Integral Convolution</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/erich-ess-imaging-vector-fields/"/>
+    <id>http://papers-we-love.github.io/2017/video/erich-ess-imaging-vector-fields/</id>
+    <published>2017-03-26T20:00:00-04:00</published>
+    <updated>2017-03-27T13:00:06-04:00</updated>
+    <author>
+      <name>MTV Raps</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/7OVrivKN2nQ" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---february-28-2017"&gt;New York - February 28, 2017&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Erich Ess on Imaging Vector Fields Using Line Integral Convolution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/237581430/"&gt;https://www.meetup.com/papers-we-love/events/237581430/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Papers:&lt;/strong&gt; &lt;a href="http://cs.brown.edu/courses/csci2370/2000/1999/cabral.pdf"&gt;Imaging Vector Fields Using Line Integral Convolution&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2nnhBTY"&gt;Erich Ess on Imaging Vector Fields Using Line Integral Convolution&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2o7t8Xn"&gt;Erich Ess on Imaging Vector Fields Using Line Integral Convolution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Line_integral_convolution"&gt;Line Integral Convolution&lt;/a&gt; is one of the most intuitive data visualization techniques around.  It's dropping paint in a river to see how the current is flowing:  to visualize a vector field simply take an image and have the vector field smear the colors.  The result is a powerful alternative to using arrows or stream lines.  And while the intuition is very straightforward, the actual mathematics that power the technique are very complex.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/assets/images/erich_ess_talk.png" alt="Figure from Erich Ess presentation" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Erich Ess (&lt;a href="https://twitter.com/egerhardess"&gt;@egerhardess&lt;/a&gt;) is a lead engineer on the Core Platform team at &lt;a href="https://jet.com/"&gt;Jet.com&lt;/a&gt;. His current work focuses on semantics for programmatic represention of distributed processes and advanced monitoring and insight platform for high distributed high volume systems. Before that he was a CTO in Chicago and an engineer in San Diego.  He studied Computer Science and Pure Mathematics in college and did research in scientific visualization before escaping academia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Ferich-ess-on-imaging-vector-fields-using-line-integral-convolution%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" id="talk_frame_385096" mozallowfullscreen="true" src="//speakerdeck.com/player/f24f922f9f1942bfbe54b2864708eeca" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>March Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/news/march-meetups/"/>
     <id>http://papers-we-love.github.io/2017/news/march-meetups/</id>
     <published>2017-02-28T19:00:00-05:00</published>
-    <updated>2017-03-27T07:00:43-04:00</updated>
+    <updated>2017-03-27T13:00:41-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -233,49 +284,6 @@
 &lt;p&gt;&lt;strong&gt;Bucharest 12/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-bucharest/events/236115312/"&gt;December Meetup&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Fairfax 12/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/235715763/"&gt;: Holiday Edition ☃️&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>November Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/november-meetups/"/>
-    <id>http://papers-we-love.github.io/2016/news/november-meetups/</id>
-    <published>2016-10-31T20:00:00-04:00</published>
-    <updated>2016-11-30T19:00:40-05:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for November across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Utrecht 11/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-utrecht/events/234916338/"&gt;A Critique of ANSI SQL Isolation Levels&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chattanooga 11/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/234756751/"&gt;Neil Menne on CQRS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bucharest 11/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-bucharest/events/234615990/"&gt;November Meetup&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 11/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/234767068/"&gt;: Flexible Paxos&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pune 11/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Doo-Things/events/235342368/"&gt;IISER Post: thesmallx  A Mad Tea Party (Talks by Seven Eminent Speakers)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 11/9&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/232465168/"&gt;Diego Ongaro on The criteria to be used in decomposing systems into modules&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Portland 11/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-PDX/events/235178727/"&gt;Jeena Lee on "A DNABased Archival Storage System"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vienna 11/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/234993018/"&gt;MapReduce&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Olivette 11/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/235470434/"&gt;Kinetic model of apple juice enzymatic browning…&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Winnipeg 11/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Winnipeg/events/234922870/"&gt;Bitcoin: A Peerto-Peer Electronic Cash System&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montréal 11/23&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/235100825/"&gt;Hashed and Hierarchical Timing Wheels&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Reston 11/23&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/234677174/"&gt;Combinatorics and Computing Power&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York  11/29&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/235441575/"&gt;Wil Yegelwel on "The Rendering Equation"&lt;/a&gt;
  &lt;/p&gt;
 
 &lt;hr /&gt;
