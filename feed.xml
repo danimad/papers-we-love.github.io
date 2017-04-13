@@ -5,16 +5,75 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2017-03-31T20:00:00-04:00</updated>
+  <updated>2017-04-12T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>Kiran Bhattaram on Failure Detectors</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/kiran-bhattaram-failure-detectors/"/>
+    <id>http://papers-we-love.github.io/2017/video/kiran-bhattaram-failure-detectors/</id>
+    <published>2017-04-12T20:00:00-04:00</published>
+    <updated>2017-04-13T13:00:05-04:00</updated>
+    <author>
+      <name>Big Pun</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/lwgH2GEos8k" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---march-27-2017"&gt;New York - March 27, 2017&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Kiran Bhattaram on Failure Detectors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/238056356/"&gt;https://www.meetup.com/papers-we-love/events/238056356/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Papers and Links:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf"&gt;Impossibility of Distributed Consensuswith One Faulty Process&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://courses.csail.mit.edu/6.852/08/papers/CT96-JACM.pdf"&gt;Unreliable Failure Detectors for Reliable Distributed Systems&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://the-paper-trail.org/blog/a-brief-tour-of-flp-impossibility/"&gt;A Brief Tour of FLP Impossibility&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2paqEe2"&gt;Kiran Bhattaram on Failure Detectors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2pxsimE"&gt;Kiran Bhattaram on Failure Detectors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The problem of consensus is central to many distributed systems algorithms. Failure detectors are central to the way we think about consensus algorithms. In a fully asynchronous system, the &lt;a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf"&gt;FLP impossibility result&lt;/a&gt; shows that no consensus solution that can tolerate crash failures exists! This simple, stunning result imposed a hard constraint on what could be solved in an asynchronous model.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href="http://the-paper-trail.org/blog/a-brief-tour-of-flp-impossibility/"&gt;FLP&lt;/a&gt; result kicked off a flurry of research into ways to circumvent the impossibility result. Failure detectors were the most compelling abstraction proposed. These augmented the asynchronous model just enough to allow consensus, while retaining most of the neat abstractions that make asynchronous systems simple to reason about.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I'll discuss some of the history and background of &lt;a href="http://courses.csail.mit.edu/6.852/08/papers/CT96-JACM.pdf"&gt;Chandra and Toueg's failure detector proposal&lt;/a&gt;, and discuss some failure detector mechanisms that followed the paper.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://kiranbot.com"&gt;Kiran&lt;/a&gt; (&lt;a href="https://twitter.com/kiranb"&gt;@kiranb&lt;/a&gt;) is a software engineer at &lt;a href="https://stripe.com"&gt;Stripe&lt;/a&gt;. At work, she's thinks a lot about distributed systems fallacies (https://kiranbot.com/fallacies) and how we can observe what our software is doing. A normal day working with Kiran involves conversations about operating distributed systems and learning that she made that awesome space dress she's wearing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fkiran-bhattaram-on-failure-detectors%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" id="talk_frame_387437" mozallowfullscreen="true" src="//speakerdeck.com/player/83392c0ea98842369fd2dea6b2ea15b1" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>April Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/news/april-meetups/"/>
     <id>http://papers-we-love.github.io/2017/news/april-meetups/</id>
     <published>2017-03-31T20:00:00-04:00</published>
-    <updated>2017-04-13T07:00:39-04:00</updated>
+    <updated>2017-04-13T13:00:42-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -252,51 +311,6 @@
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>January Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/january-meetups/"/>
-    <id>http://papers-we-love.github.io/2017/news/january-meetups/</id>
-    <published>2016-12-31T19:00:00-05:00</published>
-    <updated>2017-01-31T19:00:41-05:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for January across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 1/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/235992744/"&gt;: New Directions in Cryptography&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Diego 1/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/235992328/"&gt;Discussion Group: Reflections on Trusting Trust&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chattanooga 1/10&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/236484022/"&gt;Josh Marlow on A Basic Agent&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Durham 1/12&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Raleigh-Durham/events/235513891/"&gt;Learn how to read an Academic/Scientific paper&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vienna 1/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/236233873/"&gt;Parsing with Derivatives&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 1/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/236706538/"&gt;Caitie McCaffrey on "Distributed Programming in Argus"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bangalore 1/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-we-love-Bangalore/events/236168678/"&gt;CRDT: Conflictfree replicated data types&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gothenburg 1/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Gothenburg/events/236949636/"&gt;Use of Formal Methods at Amazon Web Services by Nachi&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montréal 1/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/236147759/"&gt;ConvolutionBased Interpolation for Fast, High-Quality Rotation of Images&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Falls Church 1/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/236590165/"&gt;Parallel computation with molecularmotor-propelled agents (…)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Winnipeg 1/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Winnipeg/events/237145737/"&gt;Our Last Event via Meetup and a New Location&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Portland 1/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-PDX/events/237008035/"&gt;Carl Lerche on "A comprehensive study of CRDTs"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bucharest 1/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-bucharest/events/237071881/"&gt;January Meetup&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Olivette 1/30&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/236882665/"&gt;The mechanical evaluation of expressions&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
 </content>
   </entry>
 </feed>
