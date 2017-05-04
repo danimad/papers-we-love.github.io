@@ -5,10 +5,47 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2017-04-12T20:00:00-04:00</updated>
+  <updated>2017-04-30T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>May Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/may-meetups/"/>
+    <id>http://papers-we-love.github.io/2017/news/may-meetups/</id>
+    <published>2017-04-30T20:00:00-04:00</published>
+    <updated>2017-05-03T20:39:37-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for May across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 5/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/239510839/"&gt;Neil Menne on Trustworthy Online Controlled Experiments: Five Puzzling Outcomes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 5/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/239026973/"&gt;: Projectional Editors and Parsing with Derivatives&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 5/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/239024761/"&gt;Spanner, TrueTime &amp;amp; The CAP Theorem&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 5/10&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/239526927/"&gt;Book Club: The Manager's Path&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gothenburg 5/11&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Gothenburg/events/239674622/"&gt;Alejandro Russo on "Two Can Keep a Secret, If One of Them Uses Haskell"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Olivette 5/15&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/238249653/"&gt;µKanren, A Minimal Functional Core for Relational Programming&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Durham 5/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Raleigh-Durham/events/239298063/"&gt;Database Metatheory Asking the Big Queries&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 5/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/tcnwxmywhbgc/"&gt;Book Club: The Manager's Path&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York  5/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/239562163/"&gt;Daniel Doubrovkine on "Auctions and Bidding" &amp;amp; Mini w/ Sophia Gold&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arlington 5/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/238831113/"&gt;A local perspective on community structure in multilayer networks&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Kiran Bhattaram on Failure Detectors</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/video/kiran-bhattaram-failure-detectors/"/>
@@ -73,7 +110,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2017/news/april-meetups/"/>
     <id>http://papers-we-love.github.io/2017/news/april-meetups/</id>
     <published>2017-03-31T20:00:00-04:00</published>
-    <updated>2017-04-28T07:00:39-04:00</updated>
+    <updated>2017-04-30T19:00:37-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -260,61 +297,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Wil Yegelwel on The Rendering Equation</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/wil-yegelwel-rendering-equation/"/>
-    <id>http://papers-we-love.github.io/2017/video/wil-yegelwel-rendering-equation/</id>
-    <published>2017-01-22T19:00:00-05:00</published>
-    <updated>2017-01-22T19:00:04-05:00</updated>
-    <author>
-      <name>MTV</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/z7umrRqlSeE" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---november-29-2016"&gt;New York - November 29, 2016&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Wil Yegelwel on The Rendering Equation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/235441575/"&gt;https://www.meetup.com/papers-we-love/events/235441575/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Papers:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href="http://bit.ly/2jdLPbj"&gt;The Rendering Equation&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href="http://bit.ly/2kg2RmV"&gt;Illumination for Computer Generated Pictures&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href="http://bit.ly/2khx0Xa"&gt;Continuous Shading of Curved Surfaces&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2kfZiwX"&gt;Wil Yegelwel on The Rendering Equation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2jQ7Y0Q"&gt;Wil Yegelwel on The Rendering Equation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Illumination in computer graphics deals with calculating the color of each pixel on the screen when trying to render a photorealistic scene. The problem is that generating increasingly realistic renderings requires a lot of processing and so a tradeoff must be made between compute time and image quality. We will first look at two foundational papers from the 70s that built “good enough” models that were fast to render. Finally, we look at &lt;a href="http://bit.ly/2jdLPbj"&gt;The Rendering Equation&lt;/a&gt; that provides a single model to encompass many effects of lighting assuming you are willing to pay the processing cost.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://wyegelwel.github.io"&gt;Wil Yegelwel&lt;/a&gt; (&lt;a href="https://twitter.com/WYegelwel"&gt;@WYegelwel&lt;/a&gt;) is an engineer at &lt;a href="https://www.twosigma.com/"&gt;Two Sigma&lt;/a&gt; working on the Compute team. At work he engineers &lt;a href="https://github.com/twosigma/Cook"&gt;Cook&lt;/a&gt;, a fair share scheduler, which tries to ensure that users all get fair access to compute resources. He recently got a kitten and would be thrilled if more people wanted to discuss adorable cats. During college he fell in love with computer graphics but more so the necessity to learn broadly to do computer graphics (and life?) well.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fwil-yegelwel-on-the-rendering-equation%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" id="talk_frame_376620" mozallowfullscreen="true" src="//speakerdeck.com/player/53328a42b5254ee9bc535a3821f6a703" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
 </content>
   </entry>
 </feed>
