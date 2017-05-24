@@ -5,10 +5,118 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2017-04-30T20:00:00-04:00</updated>
+  <updated>2017-05-23T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>Andrew Turley on The Relationship Between COBOL and Computer Science</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/andrew-turley-relationship-between-cobol/"/>
+    <id>http://papers-we-love.github.io/2017/video/andrew-turley-relationship-between-cobol/</id>
+    <published>2017-05-23T20:00:00-04:00</published>
+    <updated>2017-05-24T15:13:43-04:00</updated>
+    <author>
+      <name>Marmadune Shazbot</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/a_AS6I39BkI" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---april-12-2017"&gt;New York - April 12, 2017&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/238718664/"&gt;https://www.meetup.com/papers-we-love/events/238718664/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://www.cs.umd.edu/~ben/papers/Schneiderman1985Relationship.pdf"&gt;https://www.cs.umd.edu/~ben/papers/Schneiderman1985Relationship.pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2qcr1WU"&gt;Andrew Turley on The Relationship Between COBOL and Computer Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2qgOXEq"&gt;Andrew Turley on The Relationship Between COBOL and Computer Science&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In 1960, two different computers compiled and ran the same COBOL program. Twenty-five years later COBOL was considered a grand success in industry and was barely mentioned, except critically, in academia. Shneiderman looks at COBOL's relationship to industry and academia, discusses COBOL's strengths and weaknesses, and describes the contributions that it made to the fields of computer science and computer engineering.&lt;/p&gt;
+
+&lt;p&gt;This paper draws heavily from &lt;a href="http://dl.acm.org/citation.cfm?id=1198367"&gt;Jean Sammet's "An Early History of COBOL"&lt;/a&gt;. Reading Sammet's paper is not required to understand what Shneiderman is talking about, but it does provide a great deal of additional background information.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Andrew Turley (&lt;a href="https://twitter.com/casio_juarez"&gt;@casio_juarez&lt;/a&gt;) is a software engineer with an interest in programming languages, especially the ones that people hate. He currently works for &lt;a href="http://engineering.sendence.com/"&gt;Sendence Engineering&lt;/a&gt; where he uses Pony, a language that nobody hates yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fandrew-turley-on-the-relationship-between-cobol-and-computer-science-by-ben-schneiderman%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" mozallowfullscreen="true" src="//speakerdeck.com/player/56efdccaf7314670adc1d1e8ad2464a3" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; and &lt;a href="https://chartbeat.com"&gt;Chartbeat&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>William Byrd on The Most Beautiful Program Ever Written</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/will-byrd-most-beautiful-program/"/>
+    <id>http://papers-we-love.github.io/2017/video/will-byrd-most-beautiful-program/</id>
+    <published>2017-05-23T20:00:00-04:00</published>
+    <updated>2017-05-24T15:13:43-04:00</updated>
+    <author>
+      <name>Vagonius Thicket-Suede</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/OyfBQmvr2Hc" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---april-12-2017"&gt;New York - April 12, 2017&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;William Byrd on The Most Beautiful Program Ever Written&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/238718664/"&gt;https://www.meetup.com/papers-we-love/events/238718664/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Papers and Links:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href="https://mitpress.mit.edu/books/little-schemer"&gt;The Little Schemer&lt;/a&gt; by Daniel P. Friedman and Matthias Felleisen&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://www.eopl3.com/"&gt;Essentials of Programming Languages&lt;/a&gt; by Daniel P. Friedman and Mitchell Wand&lt;/li&gt;
+      &lt;li&gt;John McCarthy's &lt;a href="http://www-formal.stanford.edu/jmc/recursive.pdf"&gt;Recursive functions of symbolic expressions and their computation by machine, Part I&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view"&gt;LISP 1.5 Programmer's Manual&lt;/a&gt; by John McCarthy, Paul W. Abrahams, Daniel J. Edwards, Timothy P. Hart and Michael I. Levin (see especially page 13!)&lt;/li&gt;
+      &lt;li&gt;John McCarthy's &lt;a href="https://github.com/jaseemabid/micromanual"&gt;A micro-manual for LISP - not the whole truth&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html"&gt;"Maxwell's equations of software"&lt;/a&gt; examined by Ken Shirriff&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/"&gt;Lisp as the Maxwell’s equations of software&lt;/a&gt; by Michael Nielsen&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://webyrd.net/quines/quines.pdf"&gt;miniKanren, live and untagged: quine generation via relational interpreters (programming pearl)&lt;/a&gt; by William E. Byrd, Eric Holk, and Daniel P. Friedman&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://pllab.is.ocha.ac.jp/~asai/papers/thesis.ps.gz"&gt;The Reflective Language Black&lt;/a&gt; by Asai, Kenichi&lt;/li&gt;
+      &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=SrKj4hYic5A"&gt;Programming Should Eat Itself&lt;/a&gt; by Nada Amin, Strange Loop, 2014&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2qkAczZ"&gt;William Byrd on The Most Beautiful Program Ever Written&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;William E. Byrd "explores what he considers to be the most beautiful program ever written—a Lisp interpreter written in Lisp—and a few of the many amazing ideas related to this metacircular interpreter."&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;William E. Byrd (&lt;a href="https://twitter.com/webyrd"&gt;@webyrd&lt;/a&gt;) is a Research Assistant Professor in the School of Computing at the University of Utah. He is co-author of 'The Reasoned Schemer', and is co-designer of the miniKanren relational programming language. He loves StarCraft (BW &amp;amp; SC2). Ask him about the scanning tunneling microscope (STM) he is building.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fwilliam-byrd-on-the-most-beautiful-program-ever-written%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; and &lt;a href="https://chartbeat.com"&gt;Chartbeat&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>May Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/news/may-meetups/"/>
@@ -223,102 +331,6 @@
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>March Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/march-meetups/"/>
-    <id>http://papers-we-love.github.io/2017/news/march-meetups/</id>
-    <published>2017-02-28T19:00:00-05:00</published>
-    <updated>2017-03-31T19:00:40-04:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for March across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Columbus 3/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/237948954/"&gt;Book Club: Grokking Algorithms&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montréal 3/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/237070014/"&gt;Classic Nintendo Games are (Computationally) Hard&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 3/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/237408130/"&gt;: Gorilla: A fast, scalable, inmemory time series database&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Diego 3/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/236720978/"&gt;Discussion Group: As We May Think&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;cambridge  3/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/237933920/"&gt;Godel's Incompleteness Theorems&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chattanooga 3/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/237702021/"&gt;Matt Hardwick on Unsupervised Representation Learning&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Durham 3/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Raleigh-Durham/events/237701408/"&gt;QuickCheck Testing for Fun and Profit&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Columbus 3/15&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/238087662/"&gt;Book Club: Grokking Algorithms&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bucharest 3/17&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-bucharest/events/238288541/"&gt;March Meetup&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Olivette 3/20&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/237149153/"&gt;A HighPerformance Implementation of Bayesian Clustering&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vienna 3/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/237862512/"&gt;March: Spanner, TrueTime &amp;amp; The CAP Theorem&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gothenburg 3/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Gothenburg/events/238302615/"&gt;Kruthika on "Selfstabilizing systems in spite of distributed control"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York  3/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/238056356/"&gt;Kiran Bhattaram on Failure Detectors&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Columbus 3/29&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/238650251/"&gt;Book Club: Grokking Algorithms&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Arlington 3/29&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/238145749/"&gt;Reflections on Trusting Trust: A Discussion&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Santa Monica 3/29&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-LA/events/237567684/"&gt;Elwin Martin  Gravitational effects on and of vacuum decay&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Madrid 3/30&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Madrid/events/238583892/"&gt;Access path selection in a relational database management system&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 3/30&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/238325714/"&gt;Tom Santero on DeepStack: ExpertLevel Artificial Intelligence in No-Limit Poker&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>February Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/february-meetups/"/>
-    <id>http://papers-we-love.github.io/2017/news/february-meetups/</id>
-    <published>2017-01-31T19:00:00-05:00</published>
-    <updated>2017-02-28T19:00:42-05:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for February across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 2/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/236557338/"&gt;: Quicksort and Haskore&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bangalore 2/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-we-love-Bangalore/events/236984100/"&gt;A statistical approach to machine translation with Abhaya Agarwal&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chattanooga 2/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/237376175/"&gt;Stephen Spalding on Building Machines That Think and Learn Like People&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Durham 2/9&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Raleigh-Durham/events/237139012/"&gt;Api Design&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Göteborg 2/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Gothenburg/events/237159072/"&gt;K. V. S. Prasad on "Communication and Concurrency" at Zimpler&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Utrecht 2/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-utrecht/events/237190154/"&gt;Games and Ray Tracing&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vienna 2/20&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/236979336/"&gt;Chains of Reasoning over Entities, Relations, and Text using RNNs&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Olivette 2/20&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/237047272/"&gt;On Fully Homomorphic Encryption&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fairfax 2/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/237499316/"&gt;On Designing and Deploying InternetScale Services&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Portland 2/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-PDX/events/237585423/"&gt;Aaron Turon on "The Next  Programming Languages" by Peter J. Landin&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Santa Monica 2/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-LA/events/236998470/"&gt;Daniel Brice  Thompson Sampling&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 2/23&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/237054850/"&gt;Pat Helland on "Immutability Changes Everything"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York  2/28&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/237581430/"&gt;Erich Ess on Imaging Vector Fields Using Line Integral Convolution&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
 </content>
   </entry>
 </feed>
