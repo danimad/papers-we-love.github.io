@@ -5,10 +5,45 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2017-05-23T20:00:00-04:00</updated>
+  <updated>2017-05-31T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>June Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/june-meetups/"/>
+    <id>http://papers-we-love.github.io/2017/news/june-meetups/</id>
+    <published>2017-05-31T20:00:00-04:00</published>
+    <updated>2017-06-01T01:00:31-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for June across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pune 6/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Doo-Things/events/240356503/"&gt;Build a Nano Drone(Paid)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Singapore 6/6&lt;/strong&gt;: &lt;a href="https://facebook.com/1105295546247085"&gt;Papers We Love #027&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 6/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/239711101/"&gt;Consensus on Transaction Commit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 6/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/240378747/"&gt;Derik Pell on Elementary Epistemological Features of Machine Intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 6/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/240086751/"&gt;Papers We Love Book Club: The Manager's Path&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 6/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/tcnwxmywjbcc/"&gt;Papers We Love Book Club: The Manager's Path&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 6/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/239933671/"&gt;Susan McIntosh -&amp;gt; The New New Product Development Game&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York 6/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/240218464/"&gt;Papers We Love - QCon NYC Edition w/ TBD&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fairfax 6/28&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/238830300/"&gt;In Search of an Understandable Consensus Algorithm&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2017&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Andrew Turley on The Relationship Between COBOL and Computer Science</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/video/andrew-turley-relationship-between-cobol/"/>
@@ -278,57 +313,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Erich Ess on Imaging Vector Fields Using Line Integral Convolution</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/erich-ess-imaging-vector-fields/"/>
-    <id>http://papers-we-love.github.io/2017/video/erich-ess-imaging-vector-fields/</id>
-    <published>2017-03-26T20:00:00-04:00</published>
-    <updated>2017-03-27T13:00:06-04:00</updated>
-    <author>
-      <name>MTV Raps</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/7OVrivKN2nQ" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---february-28-2017"&gt;New York - February 28, 2017&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Erich Ess on Imaging Vector Fields Using Line Integral Convolution&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/237581430/"&gt;https://www.meetup.com/papers-we-love/events/237581430/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Papers:&lt;/strong&gt; &lt;a href="http://cs.brown.edu/courses/csci2370/2000/1999/cabral.pdf"&gt;Imaging Vector Fields Using Line Integral Convolution&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2nnhBTY"&gt;Erich Ess on Imaging Vector Fields Using Line Integral Convolution&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2o7t8Xn"&gt;Erich Ess on Imaging Vector Fields Using Line Integral Convolution&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Line_integral_convolution"&gt;Line Integral Convolution&lt;/a&gt; is one of the most intuitive data visualization techniques around.  It's dropping paint in a river to see how the current is flowing:  to visualize a vector field simply take an image and have the vector field smear the colors.  The result is a powerful alternative to using arrows or stream lines.  And while the intuition is very straightforward, the actual mathematics that power the technique are very complex.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/assets/images/erich_ess_talk.png" alt="Figure from Erich Ess presentation" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Erich Ess (&lt;a href="https://twitter.com/egerhardess"&gt;@egerhardess&lt;/a&gt;) is a lead engineer on the Core Platform team at &lt;a href="https://jet.com/"&gt;Jet.com&lt;/a&gt;. His current work focuses on semantics for programmatic represention of distributed processes and advanced monitoring and insight platform for high distributed high volume systems. Before that he was a CTO in Chicago and an engineer in San Diego.  He studied Computer Science and Pure Mathematics in college and did research in scientific visualization before escaping academia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Ferich-ess-on-imaging-vector-fields-using-line-integral-convolution%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" id="talk_frame_385096" mozallowfullscreen="true" src="//speakerdeck.com/player/f24f922f9f1942bfbe54b2864708eeca" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
 </content>
   </entry>
 </feed>
