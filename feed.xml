@@ -5,10 +5,41 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2017-05-31T20:00:00-04:00</updated>
+  <updated>2017-06-30T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>July Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/july-meetups/"/>
+    <id>http://papers-we-love.github.io/2017/news/july-meetups/</id>
+    <published>2017-06-30T20:00:00-04:00</published>
+    <updated>2017-07-01T01:00:25-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for July across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Singapore 7/4&lt;/strong&gt;: &lt;a href="https://facebook.com/1207987272660778"&gt;Papers We Love #028&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 7/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/240967342/"&gt;Papers We Love Book Club: The Dawn of Software Engineering&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 7/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/240572865/"&gt;PWL #33: LIME &amp;amp;&amp;amp; Sqlcache&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 7/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/240583317/"&gt;Personal Dynamic Media&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 7/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/tcnwxmywkbzb/"&gt;Papers We Love Book Club: The Manager's Path&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amsterdam 7/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-amsterdam/events/239513937/"&gt;Propositions as Types&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 7/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/239936931/"&gt;Harry Brumleve -&amp;gt; A Universal Modular Actor Formalism for AI&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2017&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>June Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/news/june-meetups/"/>
@@ -61,57 +92,6 @@
 </content>
   </entry>
   <entry>
-    <title>Andrew Turley on The Relationship Between COBOL and Computer Science</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/andrew-turley-relationship-between-cobol/"/>
-    <id>http://papers-we-love.github.io/2017/video/andrew-turley-relationship-between-cobol/</id>
-    <published>2017-05-23T20:00:00-04:00</published>
-    <updated>2017-05-24T15:13:43-04:00</updated>
-    <author>
-      <name>Marmadune Shazbot</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/a_AS6I39BkI" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---april-12-2017"&gt;New York - April 12, 2017&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/238718664/"&gt;https://www.meetup.com/papers-we-love/events/238718664/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://www.cs.umd.edu/~ben/papers/Schneiderman1985Relationship.pdf"&gt;https://www.cs.umd.edu/~ben/papers/Schneiderman1985Relationship.pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2qcr1WU"&gt;Andrew Turley on The Relationship Between COBOL and Computer Science&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2qgOXEq"&gt;Andrew Turley on The Relationship Between COBOL and Computer Science&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In 1960, two different computers compiled and ran the same COBOL program. Twenty-five years later COBOL was considered a grand success in industry and was barely mentioned, except critically, in academia. Shneiderman looks at COBOL's relationship to industry and academia, discusses COBOL's strengths and weaknesses, and describes the contributions that it made to the fields of computer science and computer engineering.&lt;/p&gt;
-
-&lt;p&gt;This paper draws heavily from &lt;a href="http://dl.acm.org/citation.cfm?id=1198367"&gt;Jean Sammet's "An Early History of COBOL"&lt;/a&gt;. Reading Sammet's paper is not required to understand what Shneiderman is talking about, but it does provide a great deal of additional background information.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Andrew Turley (&lt;a href="https://twitter.com/casio_juarez"&gt;@casio_juarez&lt;/a&gt;) is a software engineer with an interest in programming languages, especially the ones that people hate. He currently works for &lt;a href="http://engineering.sendence.com/"&gt;Sendence Engineering&lt;/a&gt; where he uses Pony, a language that nobody hates yet.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fandrew-turley-on-the-relationship-between-cobol-and-computer-science-by-ben-schneiderman%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" mozallowfullscreen="true" src="//speakerdeck.com/player/56efdccaf7314670adc1d1e8ad2464a3" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; and &lt;a href="https://chartbeat.com"&gt;Chartbeat&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
     <title>William Byrd on The Most Beautiful Program Ever Written</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/video/will-byrd-most-beautiful-program/"/>
     <id>http://papers-we-love.github.io/2017/video/will-byrd-most-beautiful-program/</id>
@@ -158,6 +138,57 @@
 &lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
 
 &lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fwilliam-byrd-on-the-most-beautiful-program-ever-written%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; and &lt;a href="https://chartbeat.com"&gt;Chartbeat&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Andrew Turley on The Relationship Between COBOL and Computer Science</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/andrew-turley-relationship-between-cobol/"/>
+    <id>http://papers-we-love.github.io/2017/video/andrew-turley-relationship-between-cobol/</id>
+    <published>2017-05-23T20:00:00-04:00</published>
+    <updated>2017-05-24T15:13:43-04:00</updated>
+    <author>
+      <name>Marmadune Shazbot</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/a_AS6I39BkI" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---april-12-2017"&gt;New York - April 12, 2017&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/238718664/"&gt;https://www.meetup.com/papers-we-love/events/238718664/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://www.cs.umd.edu/~ben/papers/Schneiderman1985Relationship.pdf"&gt;https://www.cs.umd.edu/~ben/papers/Schneiderman1985Relationship.pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2qcr1WU"&gt;Andrew Turley on The Relationship Between COBOL and Computer Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2qgOXEq"&gt;Andrew Turley on The Relationship Between COBOL and Computer Science&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In 1960, two different computers compiled and ran the same COBOL program. Twenty-five years later COBOL was considered a grand success in industry and was barely mentioned, except critically, in academia. Shneiderman looks at COBOL's relationship to industry and academia, discusses COBOL's strengths and weaknesses, and describes the contributions that it made to the fields of computer science and computer engineering.&lt;/p&gt;
+
+&lt;p&gt;This paper draws heavily from &lt;a href="http://dl.acm.org/citation.cfm?id=1198367"&gt;Jean Sammet's "An Early History of COBOL"&lt;/a&gt;. Reading Sammet's paper is not required to understand what Shneiderman is talking about, but it does provide a great deal of additional background information.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Andrew Turley (&lt;a href="https://twitter.com/casio_juarez"&gt;@casio_juarez&lt;/a&gt;) is a software engineer with an interest in programming languages, especially the ones that people hate. He currently works for &lt;a href="http://engineering.sendence.com/"&gt;Sendence Engineering&lt;/a&gt; where he uses Pony, a language that nobody hates yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fandrew-turley-on-the-relationship-between-cobol-and-computer-science-by-ben-schneiderman%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" mozallowfullscreen="true" src="//speakerdeck.com/player/56efdccaf7314670adc1d1e8ad2464a3" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
 
 &lt;hr /&gt;
 
@@ -282,53 +313,6 @@
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>April Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/april-meetups/"/>
-    <id>http://papers-we-love.github.io/2017/news/april-meetups/</id>
-    <published>2017-03-31T20:00:00-04:00</published>
-    <updated>2017-04-30T19:00:37-04:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for April across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chattanooga 4/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/238807283/"&gt;Chris Keathley on Finding Race Conditions in Erlang with QuickCheck and PULSE&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 4/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/238400445/"&gt;: LKRhash&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Diego 4/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/236660045/"&gt;Monoids: Theme and Variations (Functional Pearl)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bucharest 4/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-bucharest/events/238823989/"&gt;April Meetup&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Durham 4/11&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Raleigh-Durham/events/238268130/"&gt;No Silver Bullet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Columbus 4/12&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/238913389/"&gt;Book Club: Grokking Algorithms&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York  4/12&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/238718664/"&gt;William Byrd on "The most beautiful program ever written" &amp;amp; Mini w/ A. Turley&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Olivette 4/17&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/239097908/"&gt;Papers We Hate&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Columbus 4/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/239359689/"&gt;Book Club: Grokking Algorithms&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Amsterdam 4/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-amsterdam/events/238612409/"&gt;Classic Nintendo Games are (Computationally) Hard&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Santa Monica 4/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-LA/events/237906391/"&gt;Jim Benvenuto  Why Are Organisms Different from Machines&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Göteborg 4/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Gothenburg/events/238598678/"&gt;Suvash on "Impossibility of Distributed Consensus with One Faulty Process"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Madrid 4/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Madrid/events/239309072/"&gt;The Historical Development of Algebraic Geometry&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montréal 4/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/238644504/"&gt;Elliptic Curve Cryptography in Practice&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;94107 4/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/238325973/"&gt;Yifan Wu on Reactive Vega&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
 </content>
   </entry>
 </feed>
